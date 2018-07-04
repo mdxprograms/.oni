@@ -41,7 +41,7 @@ export const configuration = {
   "ui.colorscheme": "onedark",
   "ui.animations.enabled": true,
   "ui.fontSmoothing": "auto",
-  "vim.setting.number": false,
+  "vim.setting.number": true,
   "vim.setting.tabstop": 2,
   "vim.setting.softtabstop": 2,
   "vim.setting.shiftwidth": 2
